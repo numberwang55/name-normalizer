@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbb926ed-fde6-42ab-bc9d-e8a0d9f6849e" name="Default Changelist" comment="test 6 pass">
+    <list default="true" id="cbb926ed-fde6-42ab-bc9d-e8a0d9f6849e" name="Default Changelist" comment="test 7 pass">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/AuthorNameNormalizer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AuthorNameNormalizer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/AuthorNameNormalizerTests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/AuthorNameNormalizerTests.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AuthorNameNormalizerTests.initializes each of multiple middle names">
+  <component name="RunManager" selected="JUnit.AuthorNameNormalizerTests">
     <configuration name="AuthorNameNormalizerTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="name-normalizer" />
       <option name="PACKAGE_NAME" value="" />
@@ -111,8 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AuthorNameNormalizerTests.initializes each of multiple middle names" />
         <item itemvalue="JUnit.AuthorNameNormalizerTests" />
+        <item itemvalue="JUnit.AuthorNameNormalizerTests.initializes each of multiple middle names" />
         <item itemvalue="JUnit.AuthorNameNormalizerTests.does not initialize one letter middle name" />
         <item itemvalue="JUnit.AuthorNameNormalizerTests.trims leading and trailing whitespace" />
         <item itemvalue="JUnit.AuthorNameNormalizerTests.returns single word name" />
@@ -155,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661931082027</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test 7 pass">
+      <created>1661931703424</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661931703424</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +186,7 @@
     <MESSAGE value="test 2 pass" />
     <MESSAGE value="test 5 pass" />
     <MESSAGE value="test 6 pass" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 6 pass" />
+    <MESSAGE value="test 7 pass" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 7 pass" />
   </component>
 </project>

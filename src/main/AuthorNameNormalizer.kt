@@ -15,6 +15,7 @@ class AuthorNameNormalizer() {
     }
 
     private fun initialiseName(splitName: String): String {
-        return " ${splitName.first()}."
+        val dot = if (splitName.length > 1) "." else ""
+        return " ${splitName.first()}$dot"
     }
 }
