@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbb926ed-fde6-42ab-bc9d-e8a0d9f6849e" name="Default Changelist" comment="test 2 pass">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cbb926ed-fde6-42ab-bc9d-e8a0d9f6849e" name="Default Changelist" comment="test 5 pass">
       <change beforePath="$PROJECT_DIR$/src/main/AuthorNameNormalizer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AuthorNameNormalizer.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/AuthorNameNormalizerTests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/AuthorNameNormalizerTests.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +58,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AuthorNameNormalizerTests.initializes middle name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AuthorNameNormalizerTests.does not initialize one letter middle name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="name-normalizer" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="AuthorNameNormalizerTests" />
-      <option name="METHOD_NAME" value="initializes middle name" />
+      <option name="METHOD_NAME" value="does not initialize one letter middle name" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,10 +112,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.AuthorNameNormalizerTests" />
+        <item itemvalue="JUnit.AuthorNameNormalizerTests.does not initialize one letter middle name" />
         <item itemvalue="JUnit.AuthorNameNormalizerTests.trims leading and trailing whitespace" />
         <item itemvalue="JUnit.AuthorNameNormalizerTests.returns single word name" />
         <item itemvalue="JUnit.AuthorNameNormalizerTests.returns empty string when empty" />
-        <item itemvalue="JUnit.AuthorNameNormalizerTests.initializes middle name" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661927515841</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test 5 pass">
+      <created>1661930545534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661930545534</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +168,7 @@
     </ignored-roots>
     <MESSAGE value="test 1 pass" />
     <MESSAGE value="test 2 pass" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 2 pass" />
+    <MESSAGE value="test 5 pass" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 5 pass" />
   </component>
 </project>
