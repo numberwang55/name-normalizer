@@ -40,12 +40,31 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AuthorNameNormalizerTests.returns empty string when empty">
+  <component name="RunManager" selected="JUnit.AuthorNameNormalizerTests">
+    <configuration name="AuthorNameNormalizerTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="name-normalizer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AuthorNameNormalizerTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AuthorNameNormalizerTests.returns empty string when empty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="name-normalizer" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="AuthorNameNormalizerTests" />
       <option name="METHOD_NAME" value="returns empty string when empty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthorNameNormalizerTests.returns single word name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="name-normalizer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AuthorNameNormalizerTests" />
+      <option name="METHOD_NAME" value="returns single word name" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AuthorNameNormalizerTests" />
+        <item itemvalue="JUnit.AuthorNameNormalizerTests.returns single word name" />
         <item itemvalue="JUnit.AuthorNameNormalizerTests.returns empty string when empty" />
       </list>
     </recent_temporary>
