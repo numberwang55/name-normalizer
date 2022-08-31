@@ -29,7 +29,6 @@ class AuthorNameNormalizerTests {
         )
     }
 
-    @Ignore
     @Test
     fun `swaps first and last names`() {
         assertThat(
@@ -38,7 +37,6 @@ class AuthorNameNormalizerTests {
         )
     }
 
-    @Ignore
     @Test
     fun `trims leading and trailing whitespace`() {
         assertThat(
