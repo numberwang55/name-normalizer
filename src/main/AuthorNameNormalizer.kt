@@ -1,6 +1,7 @@
 class AuthorNameNormalizer() {
     fun normalize(name: String): String {
         val splitNamesOnComma = name.trim().split(",")
+        require(splitNamesOnComma.count() <= 2) { "Only one comma allowed" }
         val splitName = splitNamesOnComma.first().split(" ")
         if (splitName.count() == 1) return name
         return "${splitName.last()}, ${splitName.first()}${middleNames(splitName)}${prefixSuffixSplit(splitNamesOnComma)}"
