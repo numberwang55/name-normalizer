@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbb926ed-fde6-42ab-bc9d-e8a0d9f6849e" name="Default Changelist" comment="test 5 pass">
+    <list default="true" id="cbb926ed-fde6-42ab-bc9d-e8a0d9f6849e" name="Default Changelist" comment="test 6 pass">
       <change beforePath="$PROJECT_DIR$/src/main/AuthorNameNormalizer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AuthorNameNormalizer.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AuthorNameNormalizerTests">
+  <component name="RunManager" selected="JUnit.AuthorNameNormalizerTests.initializes each of multiple middle names">
     <configuration name="AuthorNameNormalizerTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="name-normalizer" />
       <option name="PACKAGE_NAME" value="" />
@@ -68,11 +68,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AuthorNameNormalizerTests.returns empty string when empty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AuthorNameNormalizerTests.initializes each of multiple middle names" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="name-normalizer" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="AuthorNameNormalizerTests" />
-      <option name="METHOD_NAME" value="returns empty string when empty" />
+      <option name="METHOD_NAME" value="initializes each of multiple middle names" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AuthorNameNormalizerTests.initializes each of multiple middle names" />
         <item itemvalue="JUnit.AuthorNameNormalizerTests" />
         <item itemvalue="JUnit.AuthorNameNormalizerTests.does not initialize one letter middle name" />
         <item itemvalue="JUnit.AuthorNameNormalizerTests.trims leading and trailing whitespace" />
         <item itemvalue="JUnit.AuthorNameNormalizerTests.returns single word name" />
-        <item itemvalue="JUnit.AuthorNameNormalizerTests.returns empty string when empty" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661930545534</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test 6 pass">
+      <created>1661931082027</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661931082027</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +176,7 @@
     <MESSAGE value="test 1 pass" />
     <MESSAGE value="test 2 pass" />
     <MESSAGE value="test 5 pass" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 5 pass" />
+    <MESSAGE value="test 6 pass" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 6 pass" />
   </component>
 </project>
